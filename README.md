@@ -6,7 +6,7 @@ Its a simple clone of my linktree profile.
 
 ## Website
 
-[https://linktree-abhinav.pages.dev/]
+[about to come]
 
 
 ## Features
@@ -19,13 +19,13 @@ Its a simple clone of my linktree profile.
 ## Repo Info
 
 
-Repo size :![repo size](https://img.shields.io/github/repo-size/probably-LUCA/linktree)
+Repo size :![repo size](https://img.shields.io/github/repo-size/xoxoABHINAV/linkme)
 
-Total lines of code : ![code](https://img.shields.io/tokei/lines/github/probably-LUCA/linktree)
+Total lines of code : ![code](https://img.shields.io/tokei/lines/github/xoxoABHINAV/linkme)
 
-Deployment : ![deployment](https://img.shields.io/github/deployments/probably-LUCA/linktree/github-pages)
+Deployment : ![deployment](https://img.shields.io/github/deployments/xoxoABHINAV/linkme/github-pages)
 
-Last update : ![deployment](https://img.shields.io/github/last-commit/probably-LUCA/linktree)
+Last update : ![deployment](https://img.shields.io/github/last-commit/xoxoABHINAV/linkme)
 
 ## Roadmap
 
@@ -41,13 +41,13 @@ Last update : ![deployment](https://img.shields.io/github/last-commit/probably-L
 
 ## Acknowledgements
 
- - [Awesome README](https://github.com/probably-LUCA/linktree/)
+ - [Awesome README](https://github.com/xoxoABHINAV/linkme/)
  
 
 
 ## Author
 
-- [@probably-LUCA](https://www.github.com/probably-LUCA)
+- [@xoxoABHINAV](https://www.github.com/xoxoABHINAV)
 
 
 ## 🚀 About Me
@@ -60,15 +60,10 @@ Javascript, HTML, CSS...
 
 ## Support
 
-For support, email lucaprobably@gmail.com.
+For support, email xoxogroovy@gmail.com.
 
 
-## Used By
-
-This project is used by the following ppl :
-
-- Luca
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5y6mml7p7aou3sclsog.png)
+
 
